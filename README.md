@@ -16,13 +16,10 @@ The project is about the Customer Churn is when customers stop using a company's
 <br> 
 (Logistic Regression, Random Forest, XGBoost)
 
-<br>
 
 
 
-
-
-#Tech Stack
+# Tech Stack
 <br>
 Python
 <br>
