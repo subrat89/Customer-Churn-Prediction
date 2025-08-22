@@ -19,6 +19,9 @@ The project is about the Customer Churn is when customers stop using a company's
 <br>
 
 
+
+
+
 #Tech Stack
 <br>
 Python
@@ -39,15 +42,23 @@ The dataset contains customer information such as:
 
 <br>
 
-- Customer demographics (age, gender)
+Customer demographics (age, gender)
 <br>
-- Service, usage (tenure, internet services, phone services)
+
+Service, usage (tenure, internet services, phone services)
 <br>
-- Contract details (monthly charges, payment method)
+
+Contract details (monthly charges, payment method)
 <br>
-- Churn label (Yes / No)
+
+Churn label (Yes / No)
 
 <br>
+
+
+
+
+
 
 # Platform :
 <br>
@@ -62,7 +73,11 @@ Jupyter Notebook
 
 The file in which the dataset is : 
 <br>
-/content/WA_Fn-UseC_-Telco-Customer-Churn (1).csv
+
+
+
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 
 
